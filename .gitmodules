@@ -1,0 +1,21 @@
+[submodule "atom"]
+	path = atom
+	url = https://github.com/atom/atom
+[submodule "shout"]
+	path = shout
+	url = https://github.com/erming/shout
+[submodule "ipad_charge"]
+	path = ipad_charge
+	url = https://github.com/mkorenkov/ipad_charge
+[submodule "the_silver_searcher"]
+	path = the_silver_searcher
+	url = git@github.com:ggreer/the_silver_searcher.git
+[submodule "pngquant"]
+	path = pngquant
+	url = git@github.com:pornel/pngquant.git
+[submodule "HypeMachine-Extension"]
+	path = HypeMachine-Extension
+	url = git@github.com:fzakaria/HypeMachine-Extension.git
+[submodule "redshift"]
+	path = redshift
+	url = git@github.com:jonls/redshift.git
