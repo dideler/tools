@@ -9,5 +9,5 @@ available versions are outdated.
 
 - Only add shallow submodules: `git submodule add --depth=1 <path>`
 - Repos need to be unshallowed if pushing to Heroku: `git fetch --unshallow`
-- To update submodules: `git submodule foreach git pull`
+- To update submodules: `git submodule foreach git pull --rebase`
   - Alternatively: `git submodule update --remote --merge --depth=1`
