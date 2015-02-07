@@ -5,8 +5,8 @@ I'm using Git + GitHub as a package manager more or less. Either because some of
 these projects are not available pre-packaged via a package manager or the
 available versions are outdated.
 
-Commits such as "Update <project-name> submodule" are personal reminders for
-when I last updated *and* built the project.
+Commits like `Update <project> submodule` are personal reminders for when
+I last updated *and* built the project.
 
 ---
 
