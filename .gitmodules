@@ -25,6 +25,3 @@
 [submodule "Hound"]
 	path = Hound
 	url = https://github.com/etsy/Hound
-[submodule "go"]
-	path = go
-	url = git@github.com:golang/go.git
