@@ -22,3 +22,6 @@
 [submodule "node-music-player"]
 	path = node-music-player
 	url = https://github.com/benkaiser/node-music-player
+[submodule "Hound"]
+	path = Hound
+	url = https://github.com/etsy/Hound
