@@ -6,7 +6,8 @@ these projects are not available pre-packaged via a package manager or the
 available versions are outdated.
 
 Commits like `Update <project> submodule` are personal reminders for when
-I last updated *and* built the project.
+I last updated *and* built the project. I try to mention the version I
+last built in the commit message body.
 
 ---
 
