@@ -7,9 +7,6 @@
 [submodule "ipad_charge"]
 	path = ipad_charge
 	url = https://github.com/mkorenkov/ipad_charge
-[submodule "the_silver_searcher"]
-	path = the_silver_searcher
-	url = git@github.com:ggreer/the_silver_searcher.git
 [submodule "pngquant"]
 	path = pngquant
 	url = git@github.com:pornel/pngquant.git
