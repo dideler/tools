@@ -11,7 +11,7 @@ last built in the commit message body.
 
 ---
 
-- Only add shallow submodules: `git submodule add --depth=1 <path>`
-- Repos need to be unshallowed if pushing to Heroku: `git fetch --unshallow`
-- To update submodules: `git submodule foreach git pull --rebase`
-  - Alternatively: `git submodule update --remote --merge --depth=1`
+- Adding a shallow submodules: `git submodule add --depth=1 <path>`
+  - Repos need to be unshallowed if pushing to Heroku: `git fetch --unshallow`
+- Updating submodules: `git submodule foreach git pull --rebase`
+- Removing a submodule: `git rm -f <submodule> && rm -rf .git/modules/<submodule>`
