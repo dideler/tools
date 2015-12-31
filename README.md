@@ -11,6 +11,7 @@ last built in the commit message body.
 
 ---
 
+- Clone this repository with `git clone --recursive` to pull in the submodule data
 - Adding a shallow submodules: `git submodule add --depth=1 <path>`
   - Repos need to be unshallowed if pushing to Heroku: `git fetch --unshallow`
 - Updating submodules: `git submodule foreach git pull --rebase`
